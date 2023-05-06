@@ -28,3 +28,5 @@ console.log(firstname.length);//it will show the length of string and spaced are
 // Last length
 console.log(firstname[firstname.length - 1]);
 console.log(firstname[firstname.length - 3]);
+
+
